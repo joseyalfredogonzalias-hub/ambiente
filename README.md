@@ -58,4 +58,4 @@ El análisis de datos ambientales permite evidenciar cómo la protección ecoló
 
 ---
 
-✉️ **Contacto:** josegonzaliasmillan@ejemplo.com  
+✉️ **Contacto:** jose_alf.gonzalias@uao.edu.co
